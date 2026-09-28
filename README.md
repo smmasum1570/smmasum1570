@@ -1,4 +1,4 @@
-![logo](https://github.com/Didarul342/Didarul342/blob/main/banner.png)
+![logo](https://github.com/smmasum1570/smmasum1570/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm S. M MASUM</h1>
 <h3 align="center">A passionate CSE student aspiring to become an SQA Engineer</h3>
